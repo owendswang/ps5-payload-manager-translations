@@ -171,6 +171,9 @@
   "settings.log_viewer_desc": "Access real-time debug output from the Payload Manager daemon.",
   "storage_hub.update_btn": "Update",
   "storage_hub.install_btn": "Install",
+  "storage_hub.default_repository": "Default Repository",
+  "storage_hub.remove_payload": "Remove Payload",
+  "storage_hub.uncategorized": "Uncategorized",
   "storage_hub.title_1": "Payload",
   "storage_hub.title_2": "Management",
   "storage_hub.upload_btn": "Upload ELF Payload",
@@ -209,4 +212,3 @@
   "storage_hub.remote_management_title": "Remote Management",
   "storage_hub.remote_management_desc": "Access this dashboard from your computer or phone to manage and upload payloads directly from your local network."
 }
-

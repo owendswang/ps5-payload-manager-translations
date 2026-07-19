@@ -171,6 +171,9 @@
   "settings.log_viewer_desc": "Podgląd logów demona Payload Manager w czasie rzeczywistym.",
   "storage_hub.update_btn": "Aktualizuj",
   "storage_hub.install_btn": "Zainstaluj",
+  "storage_hub.default_repository": "Default Repository",
+  "storage_hub.remove_payload": "Remove Payload",
+  "storage_hub.uncategorized": "Uncategorized",
   "storage_hub.title_1": "Centrum",
   "storage_hub.title_2": "Payloadów",
   "storage_hub.upload_btn": "Prześlij plik ELF",
@@ -209,4 +212,3 @@
   "storage_hub.remote_management_title": "Zdalne zarządzanie",
   "storage_hub.remote_management_desc": "Zarządzaj aplikacją z dowolnego urządzenia w sieci lokalnej."
 }
-
