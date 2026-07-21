@@ -150,6 +150,7 @@
   "settings.title": "Ustawienia",
   "settings.language_title": "Język",
   "settings.language_desc": "Zmień język wyświetlania aplikacji.",
+  "settings.language_system_default": "Domyślny systemowy",
   "settings.language_disclaimer": "Tłumaczenia są tworzone przez społeczność i mogą zawierać błędy.",
   "settings.auto_open_title": "Auto-otwieranie przeglądarki",
   "settings.auto_open_desc": "Automatycznie uruchamiaj przeglądarkę po wykonaniu payloadu.",

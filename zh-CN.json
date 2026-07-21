@@ -150,6 +150,7 @@
   "settings.title": "设置",
   "settings.language_title": "语言",
   "settings.language_desc": "更改应用的显示语言。",
+  "settings.language_system_default": "System Default",
   "settings.language_disclaimer": "翻译由社区提供，可能存在错误。",
   "settings.auto_open_title": "自动打开浏览器",
   "settings.auto_open_desc": "启动 Payload 管理器时自动打开浏览器。",

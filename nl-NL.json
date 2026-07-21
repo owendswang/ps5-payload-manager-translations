@@ -150,6 +150,7 @@
   "settings.title": "Settings",
   "settings.language_title": "Language",
   "settings.language_desc": "Change the display language of the application.",
+  "settings.language_system_default": "System Default",
   "settings.language_disclaimer": "Translations are community-driven and may contain errors.",
   "settings.auto_open_title": "Auto-open Browser",
   "settings.auto_open_desc": "Automatically launch the browser when Payload Manager payload is executed.",
